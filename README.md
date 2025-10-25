@@ -1,154 +1,172 @@
 # 🚀 ML Engineer Mastery Journey: Oct 2025 → Sep 2027
 
-> **Mission**: Transform from beginner to top 0.0001% ML Engineer  
-> **Target**: €80-100K Machine Learning role in Ireland by September 2027  
-> **Approach**: 36 hours/week of rigorous learning, building, and documenting
+**Mission:** Transform from beginner to elite ML Engineer  
+**Target:** €80-100K Machine Learning role in Ireland by September 2027  
+**Approach:** Strategic building through EKANTIK flagship project + comprehensive ML mastery  
 
 ---
 
-## 📊 Journey Stats
+## 📊 Current Stats (Updated: Oct 25, 2025)
 
-**Started**: October 6, 2025  
-**Current Day**: Day 1  
-**Hours Logged**: 0 / 1,872 target hours  
-**LeetCode Solved**: 0 / 500+  
-**Projects Completed**: 0 / 10+  
-**Status**: 🔴 Foundation Phase - Mathematical Basics
+**Started:** October 6, 2025  
+**Current Day:** Day 20 / 730  
+**Hours Logged:** ~15 / 1,781 target hours  
+**LeetCode Solved:** 0 / 500+  
+**Projects Active:** 2 (Das_Coder journal + Ekantik_pre-prep sprint)  
+**Current Phase:** Phase 0 - Survival Mode (Exam Season)  
+**Python Skill:** ●●○○○ (2/5)  
+**ML Skill:** ●○○○○ (1/5)  
+
+**Next Milestone:** Complete Phase 0 (Nov 30) - Python 3/5
 
 ---
 
 ## 🎯 Roadmap Overview
 
-### Phase 1: Mathematical & Programming Foundations (Oct 2025 - Feb 2026)
-- Linear Algebra, Statistics, Calculus
-- Python Mastery + Data Structures & Algorithms
-- CS50 Python + CS50 AI completion
-- First ML implementations from scratch
+### **Phase 0: Survival & Foundation (Oct 27 - Nov 30, 2025)**
+**Status:** 🔴 In Progress  
+**Time:** 30 min/day during exam season  
+**Goals:**
+- Complete Ekantik_pre-prep (40-day sprint)
+- Maintain coding streak
+- Python: 2/5 → 3/5
 
-### Phase 2: Deep ML & Specialization (Mar 2026 - Aug 2026)
-- Classical ML: Supervised/Unsupervised Learning
-- Deep Learning: Neural Networks, CNNs, RNNs
-- Specializations: Computer Vision, NLP, Time Series
-- Production-grade project implementations
+### **Phase 1: EKANTIK Core Build (Dec 2025 - Mar 2026)**
+**Status:** ⏳ Upcoming  
+**Time:** 2 hours/day, 14 hours/week (224 hours total)  
+**Goals:**
+- Build 4 EKANTIK modules (Niyam, Expense, Vachnamrut, SmartStock)
+- Python: 3/5 → 4/5
+- ML: 1/5 → 3/5
 
-### Phase 3: Production ML & Advanced Topics (Sep 2026 - May 2027)
-- MLOps: Docker, Kubernetes, CI/CD for ML
-- Advanced: Transformers, GANs, RL
-- Research experience and paper implementations
-- Industry-standard system design
+### **Phase 2: Integration & ML Deep Dive (Apr - May 2026)**
+**Status:** ⏳ Future  
+**Time:** 14 hours/week (112 hours)  
+**Goals:**
+- Unified PostgreSQL system
+- Basic ML intelligence layer
+- Andrew Ng ML Specialization
 
-### Phase 4: Career Launch (Jun 2027 - Sep 2027)
-- Interview preparation and portfolio polish
-- 200+ job applications
-- Offer negotiation
-- ML Engineer role secured
+### **Phase 3: Advanced AI Layer (Jun - Aug 2026)**
+**Status:** ⏳ Future  
+**Time:** 14 hours/week (168 hours)  
+**Goals:**
+- Deep learning correlations
+- Generative AI integration (Gemini API)
+- EKANTIK v3.0 production-ready
+
+### **Phase 4: Advanced ML & Career Launch (Sep 2026 - Sep 2027)**
+**Status:** ⏳ Future  
+**Time:** 21 hours/week (1,260 hours)  
+**Goals:**
+- 3 specialized projects (CV, NLP, Time Series)
+- MLOps mastery (Docker, K8s, AWS)
+- 500+ LeetCode solved
+- €80-100K ML Engineer offer secured
 
 ---
 
 ## 📚 Learning Resources
 
-### Current Focus
-- **Mathematics**: 3Blue1Brown, Khan Academy
-- **Programming**: CS50 Python, DSA with Apna College
-- **ML Theory**: Andrew Ng, Fast.ai (upcoming)
+**Current Focus (Phase 0):**
+- CS50 Python (Harvard)
+- Apna College Sigma 7.0 (DSA in Python)
+- Daily LeetCode (starting Week 2)
 
-### Tech Stack
-`Python` `PyTorch` `TensorFlow` `NumPy` `Pandas` `Scikit-learn`  
-`Docker` `Kubernetes` `AWS` `Git` `Linux`
-
----
-
-## 📈 Weekly Progress
-
-### Week 1 (Oct 6-12, 2025)
-- [ ] Complete Linear Algebra foundations (3Blue1Brown Ch 1-5)
-- [ ] CS50 Python Week 3-4
-- [ ] 21 LeetCode problems solved
-- [ ] Set up all learning infrastructure
-- [ ] First GitHub commit streak
+**Upcoming (Phase 1+):**
+- Andrew Ng ML Specialization
+- Andrew Ng Deep Learning Specialization
+- Fast.ai Practical Deep Learning
+- Hands-On ML (Aurélien Géron)
 
 ---
 
-## 🔥 Daily Commitment
+## 💻 Active Projects
 
-**Weekdays (Mon, Tue, Wed, Fri)**: 5 hours  
-**Thursday**: 2.5 hours (BAPS Para Sabha)  
-**Saturday**: 9 hours  
-**Sunday**: 4 hours morning + 1 hour travel  
+### **1. Ekantik_pre-prep (Oct 24 - Dec 2, 2025)**
+📍 [Repository](https://github.com/Jeet0809/Ekantik_pre-prep)  
+**Status:** Day 1 complete (20 files, 505 lines)  
+**Goal:** 40-day Python + DSA sprint before EKANTIK build
 
-**Total**: 36 hours/week
-
----
-
-## 💻 Projects
-
-*Projects will be added as they are completed*
+### **2. EKANTIK Life Operating System (Dec 2025 - Aug 2026)**
+📍 [Coming Soon]  
+**Status:** Pre-preparation phase  
+**Goal:** Flagship ML project serving 5000+ BAPS community members
 
 ---
 
-## 📝 Blog & Writing
+## 📈 Weekly Commitment
 
-*Technical articles will be linked here*
+**Phase 0 (Oct 27 - Nov 30):** 3.5 hours/week  
+**Phase 1-3 (Dec 2025 - Aug 2026):** 14 hours/week  
+**Phase 4 (Sep 2026 - Sep 2027):** 21 hours/week  
+
+**Average:** 15.8 hours/week | 1,781 hours total
+
+---
+
+## 🔥 Progress Tracking
+
+### **October 2025 (Month 1)**
+- [x] Repository setup (Oct 6)
+- [x] Roadmap finalized (Oct 25)
+- [x] Ekantik_pre-prep Day 1 complete (Oct 25)
+- [x] CS50 Python Week 0-2 practice
+- [ ] Complete exam survival phase (Oct 27-31)
+- [ ] Maintain 30 min/day coding streak
+
+**Hours this month:** 15 / 17 target (Phase 0)
+
+---
+
+## 📝 Daily Logs
+
+Detailed progress tracked in `learning-logs/` folder:
+- **Day 1 (Oct 6):** 7h 40min - Linear Algebra + CS50 Python
+- **Day 3 (Oct 8):** 5.5h - Admin & MS application work
+- **Day 20 (Oct 25):** 2h - Ekantik_pre-prep setup + 20 files
+
+*(More logs will be added as journey progresses)*
+
+---
+
+## 🌟 Featured Repository
+
+**[Ekantik_pre-prep](https://github.com/Jeet0809/Ekantik_pre-prep)** - 40-day intensive Python + DSA preparation sprint (Oct 24 - Dec 2, 2025)
+
+---
+
+## 🎯 2027 Vision
+
+**September 30, 2027:**
+- ✅ Python: 5/5 (EXPERT)
+- ✅ ML: 5/5 (ELITE)
+- ✅ LeetCode: 500+ solved
+- ✅ Projects: EKANTIK + 6 specialized projects
+- ✅ Career: **€80-100K ML Engineer role in Ireland**
 
 ---
 
 ## 🤝 Connect
 
-Building in public and documenting every step. Follow along if you're on a similar journey!
+**Building in public. Follow the journey!**
 
-**LinkedIn**: [Your LinkedIn]  
-**Portfolio**: [Coming Soon]  
-**Email**: [Your Email]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jeet-pimpale)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Jeet0809)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:jeet.s.pimpale@gmail.com)
 
 ---
 
 ## 📜 License
 
-This repository is for educational purposes and documenting personal learning journey.
+MIT License - Educational journey documentation
 
 ---
 
-⭐ **Star this repo to follow my journey to elite ML Engineer!**
+**Last Updated:** October 25, 2025, 1:45 PM IST  
+**Next Update:** October 31, 2025 (Phase 0 Week 1 complete)  
+**Current Streak:** 🔥 Day 20/730  
 
-*"The only way to do great work is to love what you do." - Steve Jobs*
+⭐ **Star this repo to follow my transformation to elite ML Engineer!**
 
----
-
-**Last Updated**: October 6, 2025, 3:30 AM IST  
-**Next Milestone**: Complete Week 1 foundations
-```
-
-***
-
-## 🎯 MY RECOMMENDATION
-
-**Use Option 6** for the short description (shows up on GitHub profile):
-
-```
-📈 ML Engineer Transformation: 1,872 Hours → Elite Level | 2025-2027
-
-Documenting intensive ML mastery journey: Oct 2025 → Sep 2027
-
-🎯 Weekly: 36 hours focused learning + coding
-📊 Target: 500+ LeetCode | 10+ Projects | €80-100K ML role
-🧠 Roadmap: Math → Classical ML → Deep Learning → Production MLOps
-💻 Tech: PyTorch | TensorFlow | Docker | AWS | Kubernetes
-📍 Destination: Ireland ML Engineer Position
-
-Progress tracked daily. Building in public. Learning never stops.
-```
-
-**Why this works**:
-- ✅ **Quantified**: Shows serious commitment (1,872 hours)
-- ✅ **Specific**: Clear targets and timeline
-- ✅ **Professional**: Shows planning and structure
-- ✅ **Inspiring**: Demonstrates ambition and dedication
-- ✅ **Trackable**: Numbers that will update over time
-- ✅ **SEO-friendly**: Keywords for discoverability
-
-***
-
-**Now create that repository and commit your first README!** 🚀
-
-**Your ML Engineer journey documentation starts RIGHT NOW at 3:31 AM!** 💪
 
